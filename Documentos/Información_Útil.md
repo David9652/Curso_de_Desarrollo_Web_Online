@@ -13,3 +13,9 @@
 * [API Chat de Facebook](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin?locale=es_LA "API Chat de Facebook").
 * [Animate Scroll](https://plugins.compzets.com/animatescroll/ "Animate Scroll").
 * [Uso de Animate Scroll](https://platzi.com/tutoriales/1350-html5-css3/2842-animate-scroll-anima-tus-navegaciones-internas-v2/ "Uso de Animate Scroll").
+* [Paleta de Colores](https://flatuicolors.com/ "Paleta de Colores").
+* [Paleta de Colores 2](http://www.paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF "Paleta de Colores 2").
+* [Paleta de Colores Adobe](https://color.adobe.com/es/create/color-wheel/?base=2&rule=Analogous&selected=0&name=Mi%20tema%20de%20Color&mode=rgb&rgbvalues=1,0.3270833333331894,0.050000000000000044,0.91,0.17157291666660116,0.04550000000000004,1,0,0,0.91,0.04550000000000004,0.4777500000001965,1,0.050000000000000044,0.999999999999784&swatchOrder=0,1,2,3,4 "Paleta de Colores Adobe").
+* [Obtención Colores HTML](https://htmlcolorcodes.com/es/ "Obtención Colores HTML").
+* [Generador de Colores](https://coolors.co/ "Generador de Colores").
+* [Paleta de Colores 3](https://colorhunt.co/ "Paleta de Colores 3").
