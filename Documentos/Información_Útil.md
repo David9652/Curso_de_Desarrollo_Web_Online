@@ -7,3 +7,6 @@
 * [Página 2 Información HTML5](https://www.w3schools.com/tags/tag_doctype.asp "Página 2 Información HTML5").
 * [Generador de Favicons](https://realfavicongenerator.net/ "Generador de Favicons").
 * [Uso de la herramienta de favicons](https://platzi.com/tutoriales/1350-html5-css3/2846-favicon-generator-maximiza-la-compatibilidad-de-tu-favicon/ "Uso de la herramienta de favicons").
+* [Favicons comunes](https://icons8.com/icons/set/favicon "Favicons comunes").
+* [Otra página de Favicons](https://icomoon.io/#icons-icomoon "Otra página de Favicons").
+* [Compresor de Imágenes para que cargue más rápido la página](https://compressor.io/ "Compresor de Imágenes para que cargue más rápido la página"). &rarr; TinyPNG también funciona bien, además puedes usarlo desde el propio VSCode a traves de su API,
