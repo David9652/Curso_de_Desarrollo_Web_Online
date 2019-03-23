@@ -10,3 +10,6 @@
 * [Favicons comunes](https://icons8.com/icons/set/favicon "Favicons comunes").
 * [Otra página de Favicons](https://icomoon.io/#icons-icomoon "Otra página de Favicons").
 * [Compresor de Imágenes para que cargue más rápido la página](https://compressor.io/ "Compresor de Imágenes para que cargue más rápido la página"). &rarr; TinyPNG también funciona bien, además puedes usarlo desde el propio VSCode a traves de su API.
+* [API Chat de Facebook](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin?locale=es_LA "API Chat de Facebook").
+* [Animate Scroll](https://plugins.compzets.com/animatescroll/ "Animate Scroll").
+* [Uso de Animate Scroll](https://platzi.com/tutoriales/1350-html5-css3/2842-animate-scroll-anima-tus-navegaciones-internas-v2/ "Uso de Animate Scroll").
