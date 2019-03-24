@@ -21,3 +21,4 @@
 * [Paleta de Colores 3](https://colorhunt.co/ "Paleta de Colores 3").
 * [Otros Selectores CSS](https://code.tutsplus.com/es/tutorials/the-30-css-selectors-you-must-memorize--net-16048 "Otros Selectores CSS").
 * [Normalize.css](https://necolas.github.io/normalize.css/ "Normalize.css") Vs [Reset.css](https://meyerweb.com/eric/tools/css/reset/ "Reset.css").
+* [Metodología CSS](https://blog.interactius.com/metodolog%C3%ADa-css-object-oriented-css-oocss-b58118935d3e "Metodología CSS").
