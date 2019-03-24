@@ -79,6 +79,7 @@ h1 strong{
     margin: 10px;
     margin-bottom: 15px;
     padding: 20px;
+    /* box-sizing: border-box; Delimitar que la caja nunca sea más grande que mi ancho y alto */ 
 }
 .project-details{
     width: 500px;
