@@ -146,6 +146,58 @@ h1 strong{
     width: 500px;
 }
 
+.event-list-title{
+    margin: 40px;
+}
+
+.event-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+}
+
+.event-list .event{
+    background-color: #f4fbff;
+    border-radius: 10px;
+    margin: 10px;
+    width: 600px;
+    overflow: hidden;
+}
+.event-list .event img{
+    width: 600px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.event-list .event .event-detail{
+    background-color: white;
+    margin: 30px;
+    margin-top: -40px;
+    padding: 20px;
+    position: relative;
+    text-align: center;
+}
+.event-list .event .event-title{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.event-list .event .event-detail .event-description{
+    font-size: 15px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.event-list .event .event-detail .event-url{
+    border: 1px solid #056fff;
+    border-radius: 10px;
+    color: #056fff;
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 5px 20px;
+    text-decoration: none;
+}
+
 .footer{
     color: white;
     background-color: #1b2127;
