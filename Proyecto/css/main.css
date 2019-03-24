@@ -72,6 +72,7 @@ h1 strong{
 .project{
     border: 1px solid  grey;
     border-radius: 20px;
+    margin-bottom: 15px;
 }
 .project-details{
     width: 500px;
