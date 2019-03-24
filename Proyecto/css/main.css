@@ -82,8 +82,10 @@ h1 strong{
     /* box-sizing: border-box; Delimitar que la caja nunca sea más grande que mi ancho y alto */ 
 }
 .project-details{
+    display: inline-block;
     width: 500px;
 }
 .project-imageContainer{
+    display: inline-block;
     width: 500px;
 }
