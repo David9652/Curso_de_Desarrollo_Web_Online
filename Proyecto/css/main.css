@@ -56,10 +56,30 @@ h1 strong{
 }
 .header{
     background-color: #1d252c;
+    display: flex;
+    height: 90px;
+    justify-content: space-between;
+    /* align-items: center; */
 }
+.header .menu{
+    height: inherit;
+}
+.header .menu ul{
+    display: flex;
+    height: inherit;
+}
+
+.header .menu ul li{
+    height: inherit;
+}
+
 .header a{
+    display: flex;
     color: white;
+    align-items: center;
+    height: inherit;
     text-decoration: none;
+    padding: 0 10px;
 }
 .hero{
     height: 300px;
@@ -89,7 +109,7 @@ h1 strong{
     display: inline-block;
     width: 500px;
 }
-/* Propiedad que afecta asus hijos directos */
+/* Propiedad que afecta a sus hijos directos */
 /*
 .flexbox{
     display: flex;
@@ -101,7 +121,6 @@ h1 strong{
     justify-content: space-evenly;
     align-content: center;
 }
-*/
 
 .flexbox {
     display: flex;
@@ -117,10 +136,12 @@ h1 strong{
     width: 90px;
     height: 90px;
     border: 1px solid red;
-    /* Capacidad Encogible */
+    Capacidad Encogible 
     flex-shrink: 0;
 }
 
 #box1, #box3{
     align-self: flex-start;
 }
+
+*/

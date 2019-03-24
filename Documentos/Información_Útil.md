@@ -44,3 +44,6 @@
 * Cuando se utiliza la propiedad **flex-direction: column;**, entonces se invierten las propiedades de alineamiento, es decir, **justify-content** alineará de manera vertical y **align-items** de manera horizontal. Esto se debe a que hemos volteado los elementos.
 * [Guía Flebox](https://ed.team/blog/guia-definitiva-de-flexbox-2-flex-basis-flex-frow-flex-shrink "Guía Flebox").
 * [Guía 2 Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/ "Guía 2 Flexbox").
+* [Live Reload VS Code](https://github.com/ziishaned/livereload-vscode "Live Reload VS Code").
+* [Auto Refresh Plus](https://chrome.google.com/webstore/detail/auto-refresh-plus/ohfjpkccecpdfkpmfocndhepolhljfhg "Auto Refresh Plus").
+* Una forma rápida y sencilla de refrescar la interfaz automáticamente es agregando en el head de página el siguiente meta: `<meta http-equiv=“Refresh" content="10">`. En content se le indica el tiempo requerido para recargar la página.
