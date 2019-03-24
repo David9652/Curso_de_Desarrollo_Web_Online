@@ -34,3 +34,5 @@
 * [Medir elementos en sitios web](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal "Medir elementos en sitios web").
 * [Color Picker 2](https://picpick.uptodown.com/windows/descargar "Color Picker 2").
 * Mac tiene un medidor de color incluido en el sistema operativo, se llama **Medidor de Color Digital**.
+* [Explicación Bordes](http://www.siteraw.com/html-css/how-to-create-a-website/borders-shadows#borders "Explicación Bordes").
+* [Herramientas Bordes](https://cssmatic.com/es/ "Herramientas Bordes").

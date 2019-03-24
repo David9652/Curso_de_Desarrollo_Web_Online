@@ -69,6 +69,10 @@ h1 strong{
     background-repeat: no-repeat;
     background-position-x: right; 
 }
+.project{
+    border: 1px solid  grey;
+    border-radius: 20px;
+}
 .project-details{
     width: 500px;
 }
