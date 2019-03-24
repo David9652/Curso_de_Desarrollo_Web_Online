@@ -31,3 +31,6 @@
 * [Letras en Google](https://fonts.google.com/ "Letras en Google").
 * [Extensión Reconocimiento Letra](http://www.chengyinliu.com/whatfont.html "Extensión Reconocimiento Letra").
 * Pluggin Live Server en Visual Studio Code para no tener que estar recargando, automáticamente modifica el contenido en un tipo de servidor virtual. Vas a la lista de archivos que esta a un costado izquierdo de la interfaz, ahi buscas el archivo index.html, le das click derecho y le das open in live server, usará tu navegador por defecto para ello.
+* [Medir elementos en sitios web](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal "Medir elementos en sitios web").
+* [Color Picker 2](https://picpick.uptodown.com/windows/descargar "Color Picker 2").
+* Mac tiene un medidor de color incluido en el sistema operativo, se llama **Medidor de Color Digital**.
