@@ -89,3 +89,17 @@ h1 strong{
     display: inline-block;
     width: 500px;
 }
+/* Propiedad que afecta asus hijos directos */
+.flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-wrap: nowrap Propiedad para que no caiga ningún hijo*/
+    /* flex-direction: raw; Propiedad por defecto*/
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    /* Capacidad Encogible */
+    flex-shrink: 0;
+}
