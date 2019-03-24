@@ -40,3 +40,7 @@
 * [Flexbox CSS 2](http://www.flexboxdefense.com/ "Flexbox CSS 2").
 * Cuando la propiedad flex está activa, no existe el efecto Margin-Collapsing, acá los Márgenes de cada contenedor se suman en vez de que coja el mayor.
 * Space-Evenly tiene espaciado igual entre todas sus cajas, mientras que Space-Around cambia en los extremos.
+* [Todas las propiedades de Flexbox](https://darekkay.com/dev/flexbox-cheatsheet.html "Todas las propiedades de Flexbox").
+* Cuando se utiliza la propiedad **flex-direction: column;**, entonces se invierten las propiedades de alineamiento, es decir, **justify-content** alineará de manera vertical y **align-items** de manera horizontal. Esto se debe a que hemos volteado los elementos.
+* [Guía Flebox](https://ed.team/blog/guia-definitiva-de-flexbox-2-flex-basis-flex-frow-flex-shrink "Guía Flebox").
+* [Guía 2 Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/ "Guía 2 Flexbox").
