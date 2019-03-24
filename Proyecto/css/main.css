@@ -88,6 +88,8 @@ h1 strong{
     background-color: #1b2127;
     background-repeat: no-repeat;
     background-position-x: right; 
+    display: flex;
+    align-items: center;
 }
 .portfolio{
     background: #FAFAFA;
