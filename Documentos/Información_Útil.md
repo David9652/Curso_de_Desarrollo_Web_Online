@@ -22,3 +22,8 @@
 * [Otros Selectores CSS](https://code.tutsplus.com/es/tutorials/the-30-css-selectors-you-must-memorize--net-16048 "Otros Selectores CSS").
 * [Normalize.css](https://necolas.github.io/normalize.css/ "Normalize.css") Vs [Reset.css](https://meyerweb.com/eric/tools/css/reset/ "Reset.css").
 * [Metodología CSS](https://blog.interactius.com/metodolog%C3%ADa-css-object-oriented-css-oocss-b58118935d3e "Metodología CSS").
+* [Extensión Cuentagotas](http://www.colorzilla.com/chrome/ "Extensión Cuentagotas").
+* [Teoría del Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value "Teoría del Color").
+* [Ciencia del Color](https://medium.com/pilcro/the-surprising-science-behind-colour-codes-6664c6f3b8a3 "Ciencia del Color").
+* [Color Picker W3C](https://www.w3schools.com/colors/colors_picker.asp?color=80ced6 "Color Picker W3C").
+* [Página de Gradientes](https://uigradients.com/ "Página de Gradientes").
