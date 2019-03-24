@@ -20,3 +20,4 @@
 * [Generador de Colores](https://coolors.co/ "Generador de Colores").
 * [Paleta de Colores 3](https://colorhunt.co/ "Paleta de Colores 3").
 * [Otros Selectores CSS](https://code.tutsplus.com/es/tutorials/the-30-css-selectors-you-must-memorize--net-16048 "Otros Selectores CSS").
+* [Normalize.css](https://necolas.github.io/normalize.css/ "Normalize.css") Vs [Reset.css](https://meyerweb.com/eric/tools/css/reset/ "Reset.css").
