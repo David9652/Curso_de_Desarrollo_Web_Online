@@ -47,3 +47,6 @@
 * [Live Reload VS Code](https://github.com/ziishaned/livereload-vscode "Live Reload VS Code").
 * [Auto Refresh Plus](https://chrome.google.com/webstore/detail/auto-refresh-plus/ohfjpkccecpdfkpmfocndhepolhljfhg "Auto Refresh Plus").
 * Una forma rápida y sencilla de refrescar la interfaz automáticamente es agregando en el head de página el siguiente meta: `<meta http-equiv=“Refresh" content="10">`. En content se le indica el tiempo requerido para recargar la página.
+* [Códigos HTML](https://www.ascii.cl/htmlcodes.htm "Códigos HTML").
+* [Logo Platzi](https://imgur.com/Lmybf4z "Logo Platzi").
+* **Vertical-Align** especifica el alineado vertical de un elemento en línea o una celda de una tabla. Recibe top, middle, bottom, entre otras.
