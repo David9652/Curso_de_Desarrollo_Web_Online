@@ -95,6 +95,7 @@ h1 strong{
     flex-wrap: wrap;
     /* flex-wrap: nowrap Propiedad para que no caiga ningún hijo*/
     /* flex-direction: raw; Propiedad por defecto*/
+    justify-content: space-evenly;
 }
 .box{
     width: 200px;

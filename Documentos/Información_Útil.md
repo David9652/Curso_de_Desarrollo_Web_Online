@@ -37,3 +37,6 @@
 * [Explicación Bordes](http://www.siteraw.com/html-css/how-to-create-a-website/borders-shadows#borders "Explicación Bordes").
 * [Herramientas Bordes](https://cssmatic.com/es/ "Herramientas Bordes").
 * [Flexbox CSS](https://flexboxfroggy.com/#es "Flexbox CSS").
+* [Flexbox CSS 2](http://www.flexboxdefense.com/ "Flexbox CSS 2").
+* Cuando la propiedad flex está activa, no existe el efecto Margin-Collapsing, acá los Márgenes de cada contenedor se suman en vez de que coja el mayor.
+* Space-Evenly tiene espaciado igual entre todas sus cajas, mientras que Space-Around cambia en los extremos.
