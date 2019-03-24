@@ -19,3 +19,4 @@
 * [Obtención Colores HTML](https://htmlcolorcodes.com/es/ "Obtención Colores HTML").
 * [Generador de Colores](https://coolors.co/ "Generador de Colores").
 * [Paleta de Colores 3](https://colorhunt.co/ "Paleta de Colores 3").
+* [Otros Selectores CSS](https://code.tutsplus.com/es/tutorials/the-30-css-selectors-you-must-memorize--net-16048 "Otros Selectores CSS").

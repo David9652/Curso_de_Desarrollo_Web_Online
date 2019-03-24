@@ -1,0 +1,22 @@
+/* reglas
+selectores
+declaraciones
+propiedades
+valores
+*/
+
+/* 
+-selector de etiqueta: header section article nav
+-selector descendente:  (un elemento hijo de otro)
+body header div nav ol li a{
+}
+-selector de clase: Se hace con un  .
+class
+.portafolio {  
+}
+- selector de id (único)
+#portafolio{} 
+*/
+header{
+    background-color: blueviolet;
+}
