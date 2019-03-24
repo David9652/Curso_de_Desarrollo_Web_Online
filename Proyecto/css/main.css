@@ -93,22 +93,56 @@ h1 strong{
 }
 .portfolio{
     background: #FAFAFA;
+    padding: 30px;
+}
+.portfolio h2{
+    color: #026fff;
+    text-transform: uppercase;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 30px;
 }
 .project{
     border: 1px solid  grey;
     background: white;
     border-radius: 20px;
-    margin: 10px;
     margin-bottom: 15px;
     padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     /* box-sizing: border-box; Delimitar que la caja nunca sea más grande que mi ancho y alto */ 
 }
-.project-details{
-    display: inline-block;
+.project strong{
+    font-family: 'Fjalla One', sans-serif;
+}
+.project .project-details{
+    /* display: inline-block; */
     width: 500px;
 }
-.project-imageContainer{
-    display: inline-block;
+.project .project-details .project-title{
+    font-size: 35px;
+    margin: 10px 0;
+}
+.project .project-details .project-course{
+    font-size: 25px;
+    margin: 10px 0;
+}
+.project .project-details .project-date{
+    font-size: 15px;
+    margin: 10px 0;
+}
+.project .project-details .project-url{
+    font-size: 15px;
+    margin: 10px 0;
+}
+.project .project-details .project-description{
+    font-size: 20px;
+    margin: 10px 0;
+}
+.project .project-imageContainer{
+    /* display: inline-block; */
     width: 500px;
 }
 
