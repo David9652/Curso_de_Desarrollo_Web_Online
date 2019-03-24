@@ -27,3 +27,7 @@
 * [Ciencia del Color](https://medium.com/pilcro/the-surprising-science-behind-colour-codes-6664c6f3b8a3 "Ciencia del Color").
 * [Color Picker W3C](https://www.w3schools.com/colors/colors_picker.asp?color=80ced6 "Color Picker W3C").
 * [Página de Gradientes](https://uigradients.com/ "Página de Gradientes").
+* [Mejores Tipos de Letras para Web](https://www.danicollada.com/fuentes-google-fonts-web-espanol/ "Mejores Tipos de Letras para Web").
+* [Letras en Google](https://fonts.google.com/ "Letras en Google").
+* [Extensión Reconocimiento Letra](http://www.chengyinliu.com/whatfont.html "Extensión Reconocimiento Letra").
+* Pluggin Live Server en Visual Studio Code para no tener que estar recargando, automáticamente modifica el contenido en un tipo de servidor virtual. Vas a la lista de archivos que esta a un costado izquierdo de la interfaz, ahi buscas el archivo index.html, le das click derecho y le das open in live server, usará tu navegador por defecto para ello.

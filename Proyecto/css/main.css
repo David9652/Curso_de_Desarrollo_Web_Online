@@ -17,6 +17,21 @@ class
 - selector de id (único)
 #portafolio{} 
 */
-header{
-    background-color: blueviolet;
+
+
+/*
+Uso de Letras cuando se instalan en el sistema
+@font-face {
+  font-family: 'roboto';
+  src: url('fonts/roboto-regular.ttf')
+}
+body {
+ font-family: roboto;
+}
+*/
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Fjalla One', sans-serif;
 }
