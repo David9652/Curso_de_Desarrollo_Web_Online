@@ -50,3 +50,4 @@
 * [Códigos HTML](https://www.ascii.cl/htmlcodes.htm "Códigos HTML").
 * [Logo Platzi](https://imgur.com/Lmybf4z "Logo Platzi").
 * **Vertical-Align** especifica el alineado vertical de un elemento en línea o una celda de una tabla. Recibe top, middle, bottom, entre otras.
+* [CSS Positions](http://es.learnlayout.com/position.html "CSS Positions").
